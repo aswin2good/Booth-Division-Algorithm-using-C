@@ -1,4 +1,4 @@
-// This is a C Program by Achutha Aswin Naick (S4 ECE Roll 03)
+// This is a C Program by Achutha Aswin Naick 
 // to implement Booth's Division algorithm without using *, / operators.
 
 #include <stdio.h>  // Standard I/O library for printf and scanf
