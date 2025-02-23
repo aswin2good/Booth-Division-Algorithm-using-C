@@ -1,8 +1,10 @@
 // This is a C Program by Achutha Aswin Naick 
 // to implement Booth's Division algorithm without using *, / operators.
-
+// M is the divisor
+// Q is the dividend
+// A is the remainder
 #include <stdio.h>  // Standard I/O library for printf and scanf
-#include <stdlib.h> // Standard library for general functions
+#include <stdlib.h> // Standard library for general functions and absolute value calculation
 #include <limits.h> // Library for integer limits
 
 // Function to determine the number of bits needed to represent a number
